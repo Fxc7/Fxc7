@@ -26,11 +26,10 @@ Donate Me On:
 <center>
 
 ---
-## Has been delete
-<img src="https://github.com/Fxc7" width="350px">
-<center>
 
-## Stats
+[![My Repo Popular](https://github-readme-stats.vercel.app/api/pin/?username=Fxc7&repo=termux-bot-wa)](https://github.com/Fxc7/termux-bot-wa)
+
+## Stats Fxc7
 
 <a href="https://github.com/Fxc7"><img src="https://github-readme-stats.vercel.app/api?username=Fxc7&show_icons=true&theme=radical"></a>
 <a href="https://github.com/Fxc7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fxc7&theme=highcontrast&layout=compact"></a>
