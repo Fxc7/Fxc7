@@ -1,21 +1,36 @@
 <p align="center">
-  <a href="https://github.com/Fxc7"><img src="https://cardivo.vercel.app/api?name=Fxc7&description=Hi,%20i%27m%20Farhan%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQim_SGX18GNe6nkzSpWSVwsHeQTWA9iNTN9Q&usqp=CAU&backgroundColor=%23ecf0f1&instagram=only_fxc7&github=Fxc7&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </p>
 
 ___
 ```
+            You Visitors To:
+```
+<p align="center">
+   <img src="https://profile-counter.glitch.me/Fxc7/count.svg" />
+
+  <a href="https://github.com/Fxc7"><img src="https://cardivo.vercel.app/api?name=Fxc7&description=Hi,%20i%27m%20Farhan%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQim_SGX18GNe6nkzSpWSVwsHeQTWA9iNTN9Q&usqp=CAU&backgroundColor=%23ecf0f1&instagram=only_fxc7&github=Fxc7&pattern=leaf&colorPattern=%23eaeaea" /><a>
+</p>
+
+___
+
+```
 • 👋 Hii, i'm Farhan And This My Info •
 
-• 🌱 I’m currently learning JavaScript •
+• 🌱 I'm currently learning JavaScript •
 
 • 👀 I'm currently focusing on NodeJS •
 
-• 📝 I'm currently working on Fxc7 Team •
 ```
 ___
 
 ### [`👇  INTRO MY SELF`](https://fxc7-api.herokuapp.com)
-```js
+```
 Intro = {
 "Name": "Ahmad Farhan",
 "Status": "Graduates SMK Muhammadiyah 6 Rogojampi, Banyuwangi",
@@ -26,16 +41,6 @@ Intro = {
 ```
 ___
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-</p>
-
-<p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=Fxc7 alt=Fxc7/> </p>
 
 <p align="center">
   <a href="https://github.com/Fxc7"><img src="https://github-readme-stats.vercel.app/api?username=Fxc7&theme=tokyonight&show_icons=true" /></a>
@@ -63,7 +68,6 @@ ___
 <a href="farhanxcode7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://youtube.com/channel/UCPwYwNvJl4wWJIFB_UgVxlw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <a href="https://api.whatsapp.com/send?phone=628311800241&text=p+bang+:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
 
-
-  *Hey!,You Can Recode This `readme.md` For Your User Introduction!*
 ___
