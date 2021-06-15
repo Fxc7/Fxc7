@@ -3,16 +3,18 @@
 </p>
 
 ___
-- ```👋 Hii, i'm Farhan And This My Info``` 
+```
+• 👋 Hii, i'm Farhan And This My Info •
 
-- ```🌱 I’m currently learning JavaScript ```
+• 🌱 I’m currently learning JavaScript •
 
-- ```👀 I'm currently focusing on NodeJS ```
+• 👀 I'm currently focusing on NodeJS •
 
-- ```📝 I'm currently working on Fxc7 Team ```
+• 📝 I'm currently working on Fxc7 Team •
+```
 ___
 
-# [`👇  INTRO MY SELF`](https://fxc7-api.herokuapp.com)
+### [`👇  INTRO MY SELF`](https://fxc7-api.herokuapp.com)
 ```js
 Intro = {
 "Name": "Ahmad Farhan",
@@ -54,7 +56,7 @@ ___
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fxc7&repo=termux-bot-wa&theme=tokyonight)](https://github.com/Fxc7/termux-bot-wa)
 ___
 
-## [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=628311800241&text=Hai+Bang)
+### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=628311800241&text=Hai+Bang)
 
 <p align="center">
 <a href="https://www.instagram.com/only_fxc7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
