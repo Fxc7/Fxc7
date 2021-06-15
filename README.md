@@ -1,20 +1,17 @@
 ### Hello ~ I'm Fxc7 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
-<img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/glitchtext.png" width=750 height="350" align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQim_SGX18GNe6nkzSpWSVwsHeQTWA9iNTN9Q&usqp=CAU" width=350 height="350" align="center">
+
+[![My Repo Popular](https://github-readme-stats.vercel.app/api/pin/?username=Fxc7&repo=termux-bot-wa)](https://github.com/Fxc7/termux-bot-wa)
+
+
+---
 <center>
 Connect with me :
 
-<a href="https://instagram.com/_farhan_xcode7"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/_farhan_xcode7"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
- &nbsp;&nbsp; 
-<a href="https://twitter.com/"><img src="https://www.flaticon.com/svg/static/icons/svg/124/124021.svg" alt="alt text" width="20" height="20"></a>
-
-
+<a href="https://instagram.com/_farhan_xcode7"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;
 
 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
-
-
-want be friends with me?
-
 
 ## Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
 Donate Me On:
@@ -22,17 +19,18 @@ Donate Me On:
 * [`Saweria`](https://saweria.co/FarhanXCo)
 * [`Trakteer`](https://trakteer.id/FarhanXCo)
 
-<img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/donate.png" width=350 height="350" align="center">
 <center>
 
 ---
 
-[![My Repo Popular](https://github-readme-stats.vercel.app/api/pin/?username=Fxc7&repo=termux-bot-wa)](https://github.com/Fxc7/termux-bot-wa)
-
-## Stats Fxc7
-
 <a href="https://github.com/Fxc7"><img src="https://github-readme-stats.vercel.app/api?username=Fxc7&show_icons=true&theme=radical"></a>
 <a href="https://github.com/Fxc7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fxc7&theme=highcontrast&layout=compact"></a>
+
+## Trophies
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=Fxc7&row=2&column=3"/>
+
+
+## Stats Fxc7
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -41,6 +39,3 @@ Donate Me On:
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fxc7">
 </p>
-
-## Trophies
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=Fxc7&row=2&column=3"/>
