@@ -12,7 +12,7 @@ ___
             You Visitors To:
 ```
 <p align="center">
-   <img src="https://profile-counter.glitch.me/Fxc7/count.svg" />
+   <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
 
   <a href="https://github.com/Fxc7"><img src="https://cardivo.vercel.app/api?name=Fxc7&description=Hi,%20i%27m%20Farhan%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQim_SGX18GNe6nkzSpWSVwsHeQTWA9iNTN9Q&usqp=CAU&backgroundColor=%23ecf0f1&instagram=only_fxc7&github=Fxc7&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
