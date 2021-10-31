@@ -8,6 +8,14 @@
 </p>
 
 ___
+
+<p align="center">
+<a href="https://antei.codes/"><img alt="GitHub" src="https://img.shields.io/badge/Antei Codes%20-%23121011.svg?&style=for-the-badge&logo=linux&logoColor=white"></a><br>
+<a href="https://api-xcoders.xyz/"><img alt="GitHub" src="https://img.shields.io/badge/FXC7%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+</p>
+
+
+___
 ```
             You Visitors To:
 ```
