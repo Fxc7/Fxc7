@@ -42,7 +42,7 @@ Intro = {
 "Name": "Ahmad Farhan",
 "Status": "Graduates SMK Muhammadiyah 6 Rogojampi, Banyuwangi",
 "Address": "Banyuwangi, Jawa Timur, Indonesia",
-"Age": "18 Years Old",
+"Age": "20 Years Old",
 "Birthday": "May - 01, 2003"
 }
 ```
