@@ -68,13 +68,12 @@ ___
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fxc7&repo=termux-bot-wa&theme=tokyonight)](https://github.com/Fxc7/termux-bot-wa)
 ___
 
-### [` 📫 Contact & Support Me`](https://api.whatsapp.com/send?phone=628311800241&text=Hai+Bang)
+### [` 📫 Contact & Support Me`]()
 
 <p align="center">
 <a href="https://www.instagram.com/only_fxc7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="farhanxcode7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://youtube.com/channel/UCPwYwNvJl4wWJIFB_UgVxlw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
-<a href="https://api.whatsapp.com/send?phone=628311800241&text=p+bang+:v" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://chat.whatsapp.com/J7GcP97MeKYFJOX5TNFQxV" target="_blank"><img src="https://img.shields.io/badge/Groups Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Groups WhatsApp"></a>
 </p>
 
 ___
