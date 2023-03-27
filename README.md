@@ -10,8 +10,8 @@
 ___
 
 <p align="center">
-<a target="_blank" href="https://antei.codes/"><img alt="Antei Codes" src="https://img.shields.io/badge/Antei Codes%20-%23121011.svg?&style=for-the-badge&logo=linux&logoColor=red"></a><br>
-<a target="_blank" href="https://api-xcoders.site/"><img alt="XCODERS TEAM" src="https://img.shields.io/badge/XCODERS TEAM%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+<a target="_blank" href="https://github.com/AnteiCodes/"><img alt="Antei Codes" src="https://img.shields.io/badge/Antei Codes%20-%23121011.svg?&style=for-the-badge&logo=linux&logoColor=red"></a><br>
+<a target="_blank" href="https://github.com/xcoders-teams/"><img alt="XCODERS TEAM" src="https://img.shields.io/badge/XCODERS TEAM%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </p>
 
 
@@ -20,7 +20,7 @@ ___
             You Visitors To:
 ```
 <p align="center">
-   <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
+<img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
 </p><br>
 
 ![Fxc7](https://cardivo.vercel.app/api?name=Farhannnnn&description=Hi,%20i%27m%20Farhan%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeySyqIcYYtqTMxOcAiE43TAGkbaZSBiahRkJH_TEzV_Si-4VKOSnDUhQ&s=10&backgroundColor=%23ecf0f1&instagram=only_fxc7&github=Fxc7&site=https://api-xcoders.site&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
