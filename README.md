@@ -11,7 +11,7 @@ ___
 
 <p align="center">
 <a target="_blank" href="https://github.com/AnteiCodes/"><img alt="Antei Codes" src="https://img.shields.io/badge/Antei Codes%20-%23121011.svg?&style=for-the-badge&logo=linux&logoColor=red"></a><br>
-<a target="_blank" href="https://github.com/xcoders-teams/"><img alt="XCODERS TEAM" src="https://img.shields.io/badge/XCODERS TEAM%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+<a target="_blank" href="https://github.com/xcoders-teams/"><img alt="XCODERS TEAMS" src="https://img.shields.io/badge/XCODERS TEAMS%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </p>
 
 
@@ -23,7 +23,7 @@ ___
 <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
 </p><br>
 
-![Fxc7](https://cardivo.vercel.app/api?name=Farhannnnn&description=Hi,%20i%27m%20Farhan%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeySyqIcYYtqTMxOcAiE43TAGkbaZSBiahRkJH_TEzV_Si-4VKOSnDUhQ&s=10&backgroundColor=%23ecf0f1&instagram=only_fxc7&github=Fxc7&site=https://api-xcoders.site&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
+![Fxc7](https://cardivo.vercel.app/api?name=Farhannnnn&description=Hi,%20i%27m%20Farhan%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeySyqIcYYtqTMxOcAiE43TAGkbaZSBiahRkJH_TEzV_Si-4VKOSnDUhQ&s=10&backgroundColor=%23ecf0f1&instagram=farhanxcode7&github=Fxc7&site=https://xcoders-teams.my.id&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
 ___
 
 ```
@@ -36,7 +36,7 @@ ___
 ```
 ___
 
-### [`👇  INTRO MY SELF`](https://api-xcoders.site)
+### [`👇  INTRO MY SELF`](https://xcoders-teams.my.id)
 ```
 Intro = {
 "Name": "Ahmad Farhan",
@@ -71,7 +71,7 @@ ___
 ### [` 📫 Contact & Support Me`]()
 
 <p align="center">
-<a href="https://www.instagram.com/only_fxc7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/farhanxcode7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="farhanxcode7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://chat.whatsapp.com/J7GcP97MeKYFJOX5TNFQxV" target="_blank"><img src="https://img.shields.io/badge/Groups Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Groups WhatsApp"></a>
 </p>
