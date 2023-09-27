@@ -1,0 +1,3923 @@
+{
+  "Downloader": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Youtube Short",
+        "path": "/api/download/youtube-short?url=https://youtube.com/shorts/IDZpBzaYVk0&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Youtube MP3",
+        "path": "/api/download/ytmp3?url=https://youtu.be/zNC8RkmeHNo&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Youtube MP4",
+        "path": "/api/download/ytmp4?url=https://youtu.be/zNC8RkmeHNo&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "y2mate Audio Downloader",
+        "path": "/api/download/y2mate-audio?url=https://youtu.be/zNC8RkmeHNo&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "y2mate Video Downloader",
+        "path": "/api/download/y2mate-video?url=https://youtu.be/zNC8RkmeHNo&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Play Youtube Downloader",
+        "path": "/api/download/play-youtube?query=charlotte+lawrence+slow+motion&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Play Audio Downloader",
+        "path": "/api/download/play-audio?query=so+for+away+avanged+sevenfold&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Play Video Downloader",
+        "path": "/api/download/play-video?query=so+for+away+avanged+sevenfold&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "JOOX Downloader",
+        "path": "/api/download/joox?query=monolog+pamungkas&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Facebook Reels Downloader",
+        "path": "/api/download/facebook-reels?url=https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Freel%2FCphh0ZsDuRQ%2F&h=AT3dp7jhNLMBVOA25pSK-a5ThSieZHxnwa698BQ9WG2MzGl37_XAbfaUZDehkOE3nOmV7PHSczXprW8rifHyFc5reQ_zTOYOdpv0hClNkQTe9ARkRFK4oSTB_Nt51Nan6A&s=1&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Facebook Downloader",
+        "path": "/api/download/facebook?url=https://fb.watch/fKvLR3CkmC&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Facebook Server Downloader",
+        "path": "/api/download/facebook-server?url=https://fb.watch/fKvLR3CkmC&server=server2&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Instagram Downloader",
+        "path": "/api/download/instagram?url=https://www.instagram.com/reel/CbuTNYeFp1O&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "IGTV Downloader",
+        "path": "/api/download/instagram-tv?url=https://www.instagram.com/tv/CSW1PMohXDm&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "IG Highlights Downloader",
+        "path": "/api/download/instagram-highlights?username=iamdorasnow&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "IG Stories Downloader",
+        "path": "/api/download/instagram-stories?url=url+stories&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "IG Story Downloader",
+        "path": "/api/download/instagram-story?username=iamdorasnow&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Unofficial Tiktok Downloader",
+        "path": "/api/download/tiktok?url=https://vm.tiktok.com/ZM24LhuPC&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Tiktok Lovetik Downloader",
+        "path": "/api/download/tiktok-lovetik?url=https://vm.tiktok.com/ZM24LhuPC&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "TTsave Downloader",
+        "path": "/api/download/tiktok-ttsave?url=https://vm.tiktok.com/ZM24LhuPC&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Savetik Downloader",
+        "path": "/api/download/tiktok-ssstik?url=https://vm.tiktok.com/ZM24LhuPC&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Sound Cloud Downloader",
+        "path": "/api/download/soundcloud?url=https://m.soundcloud.com/licooys/pamungkas-monolog&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Ifunny Downloader",
+        "path": "/api/download/ifunny?url=https://ifunny.co/video/cf-tiktok-hi-lemoine-Ye4Uu0729&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "IMDB Downloader",
+        "path": "/api/download/imdb?url=https://m.imdb.com/video/vi3698310169&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Twitter Video Downloader",
+        "path": "/api/download/twitter?url=https://twitter.com/NetflixID/status/1539563762398572545&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Likee Videos Downloader",
+        "path": "/api/download/likee?url=https://likee.video/@fresitha_/video/7122286743092558911&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Cocofun Downloader",
+        "path": "/api/download/cocofun?url=https://www.icocofun.com/share/post/qUc04yiC8WapxKtUXRy9dg==&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Mega Files Downloader",
+        "path": "/api/download/mega?apikey=APIKEY&url=https://mega.nz/file/Nb0RVRII#OBiOU-Ppc5ghZ-5B62yuLH5lmn7X5zJafcUqh1kRN-g",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Google Drive Downloader",
+        "path": "/api/download/google-drive?url=https://drive.google.com/file/d/1Tnfl1opaCysOqlpoNDyb4DodrOk-Yf-X/view&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Sticker Line Downloader",
+        "path": "/api/download/line-sticker?url=https://store.line.me/stickershop/product/12489506/id&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Pinterest Media Downloader",
+        "path": "/api/download/pinterest?url=https://id.pinterest.com/pin/881790802010631188&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Xvideos Downloader",
+        "path": "/api/download/xvideos?url=https://www.xvideos.com/video45738459/pervymother.com_-_mom_and_sister_threeway_fantasy&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "DoodStream Video Downloader",
+        "path": "/api/download/doods?url=https://dooood.com/d/af919hyafikc&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "XNXX Downloader",
+        "path": "/api/download/xnxx?url=https://www.xnxx.com/video-kmyob38/hot_milf_step_mom_huge_boobs_brunette_ryder_skye_sex_with_stepson_pov&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Gore Video Downloader",
+        "path": "/api/download/gore?url=https://deepgoretube.site/a-big-one&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Mediafire Downloader",
+        "path": "/api/download/mediafire?url=https://www.mediafire.com/file/i0i4ra9nj1gl5qp/%255B_Mod_Menu_3.82_%255D_Growtopia_by_PowerKuy.apk/file&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Sfile Downloader",
+        "path": "/api/download/sfile?url=https://sfile.mobi/ZfKRrcuFSo7&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "APKDL Downloader",
+        "path": "/api/download/apkdl?url=https://apk-dl.com/whatsapp-llc/com.whatsapp&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Telegram Sticker Downloader",
+        "path": "/api/download/telegram-sticker?url=https://t.me/addstickers/tontonanpatin&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Capcut Video Downloader",
+        "path": "/api/download/capcut?url=https://www.capcut.com/watch/7154936981481393409&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Religion": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Asmaul Husna",
+        "path": "/api/religion/asmaul-husna?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Jadwal Sholat Daerah",
+        "path": "/api/religion/jadwal-shalat?query=banyuwangi&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Hadist Riwayat Muslim",
+        "path": "/api/religion/hadits?kitab=bukhari&number=52&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Al - Qur'an",
+        "path": "/api/religion/quran?surah=1&ayat=2&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Only Surah Al - Qur'an",
+        "path": "/api/religion/surah?number=10&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Tafsir Al - Qur'an",
+        "path": "/api/religion/tafsir-quran?query=dunia&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Kisah 25 Nabi",
+        "path": "/api/religion/kisah-nabi?nabi=muhammad&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Bible Verse The Days",
+        "path": "/api/religion/bible-days?apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Stalker": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Instagram Stalker",
+        "path": "/api/stalk/instagram?username=farhanxcode7&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Tiktok Stalker",
+        "path": "/api/stalk/tiktok?username=chikakiku&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Github Stalker",
+        "path": "/api/stalk/github?username=Fxc7&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Twitter Stalker",
+        "path": "/api/stalk/twitter?username=evrlastinx&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Maker": {
+    "component": [
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Convert image to cartoon",
+        "path": "/api/maker/toonify?url=%baseURL%/images/profile.png&id=5&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Remove Background",
+        "path": "/api/maker/remove-bg?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Background Changed Images",
+        "path": "/api/maker/change-background?url=%baseURL%/images/profile.png&color=%23FF0000&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Mix Emoji Maker",
+        "path": "/api/maker/emoji-mix?emoji=😘&emoji2=🥲&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Drake Meme Maker",
+        "path": "/api/maker/drake?text=adiwajshing&text2=lord+mano&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Cover Canvas Text Maker",
+        "path": "/api/maker/canvas-cover?text=xcoders+teams&wm=Powered+By+xcoders+api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Kannagen Text Maker",
+        "path": "/api/maker/kannagen?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Biden Twitter Maker",
+        "path": "/api/maker/biden?text=lord+mano&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Fun Facts Maker",
+        "path": "/api/maker/facts?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "RIP Image Maker",
+        "path": "/api/maker/rip?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Affect Image Maker",
+        "path": "/api/maker/affect?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Caution Warning Maker",
+        "path": "/api/maker/caution?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Communism Maker",
+        "path": "/api/maker/communism?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Screenshot Website",
+        "path": "/api/maker/ssweb?url=%baseURL%&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Screenshot Maps Daerah",
+        "path": "/api/maker/ssmaps?query=banyuwangi&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Nulis Buku Maker",
+        "path": "/api/maker/nulis?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "V2 Nulis Buku Maker",
+        "path": "/api/maker/nulis-two?nama=Farhan&kelas=12&text=rest+api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Emojipedia Maker",
+        "path": "/api/maker/emoji-pedia?query=%F0%9F%98%82&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Spotify Card Maker",
+        "path": "/api/maker/spotify-card?author=Farhan&album=Xcoders&start=2600&end=3600&img=%baseURL%/images/profile.png&title=Monolog&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "V2 Card Welcome Maker",
+        "path": "/api/maker/welcome-two?name=Farhan&ucapan=Hai%20Welcome&memcount=10&gcname=Xcoders%20Team&pp=%baseURL%/images/avatar.png&ppgc=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "V2 Card Good Bye Maker",
+        "path": "/api/maker/goodbye-two?name=Farhan&ucapan=Hai%20Welcome&memcount=10&gcname=Xcoders%20Team&pp=%baseURL%/images/avatar.png&ppgc=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Sertifikat Tolol Maker",
+        "path": "/api/maker/serti-tolol?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Style Maker",
+        "path": "/api/maker/style-text?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Carbon Text Maker",
+        "path": "/api/maker/carbon-text?text=console.log('xcoders api')&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Generate Meme Maker",
+        "path": "/api/maker/meme?url=%baseURL%/images/avatar.png&text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "To Be Continue maker",
+        "path": "/api/maker/to-be-continued?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Image Wasted Maker",
+        "path": "/api/maker/wasted?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Image Wanted Maker",
+        "path": "/api/maker/wanted?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Pornhub Comments Maker",
+        "path": "/api/maker/porn-hub?url=%baseURL%/images/avatar.png&username=Manurios&text=Saya%20Suka%20Gay&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Triggered Image Maker",
+        "path": "/api/maker/triggered?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Greyscale Image Maker",
+        "path": "/api/maker/grey-scale?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Jail Image Maker",
+        "path": "/api/maker/jail?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Darkness Image Maker",
+        "path": "/api/maker/darkness?url=%baseURL%/images/avatar.png&ammount=10&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Delete Image Maker",
+        "path": "/api/maker/delete?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Invert Image Maker",
+        "path": "/api/maker/invert?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Joke Image Maker",
+        "path": "/api/maker/joke?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Sepia Image Maker",
+        "path": "/api/maker/sepia?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Blur Image Maker",
+        "path": "/api/maker/blur?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Circle Image Maker",
+        "path": "/api/maker/circle?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Fuse Image Maker",
+        "path": "/api/maker/fuse?url=%baseURL%/images/avatar.png&url2=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Gay Image Maker",
+        "path": "/api/maker/gay?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Opinion Image Maker",
+        "path": "/api/maker/opinion?text=xcoders&url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Facepalm Image Maker",
+        "path": "/api/maker/face-palm?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Beautiful Image Maker",
+        "path": "/api/maker/beautiful?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Trash Image Maker",
+        "path": "/api/maker/trash?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text To Picture Maker",
+        "path": "/api/maker/ttp?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "V2 Text To Picture Maker",
+        "path": "/api/maker/ttp2?text=xcoders&color=red&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "V3 Text To Picture Maker",
+        "path": "/api/maker/ttp3?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Animation Text To Picture",
+        "path": "/api/maker/attp?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text To Speach",
+        "path": "/api/maker/tts?text=xcoders&language=en&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Resize Image Maker",
+        "path": "/api/maker/resize?url=%baseURL%/images/avatar.png&width=500&height=100&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Youtube Comments Maker",
+        "path": "/api/maker/youtube-comment?url=%baseURL%/images/avatar.png&username=Farhan&text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Image Instagram Maker",
+        "path": "/api/maker/instagram?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Image Child Scary Maker",
+        "path": "/api/maker/child-scary?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Image Patrick Scary Maker",
+        "path": "/api/maker/patrick-scary?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Image Glitch Maker",
+        "path": "/api/maker/glitch?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Image Rejected Maker",
+        "path": "/api/maker/rejected?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Image Brazzers Maker",
+        "path": "/api/maker/brazzers?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "PS4 Image Maker",
+        "path": "/api/maker/ps4?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Distort Image Maker",
+        "path": "/api/maker/distort?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Moustache Image Maker",
+        "path": "/api/maker/moustache?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Frame Image Maker",
+        "path": "/api/maker/frame?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Emboss Image Maker",
+        "path": "/api/maker/emboss?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Mission Passed Image Maker",
+        "path": "/api/maker/mission-passed?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Spongebob Image Maker",
+        "path": "/api/maker/spongebob?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Facebook Image Maker",
+        "path": "/api/maker/facebook?url=%baseURL%/images/avatar.png&text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Discord House Image Maker",
+        "path": "/api/maker/discord-house?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Karen Have Image Maker",
+        "path": "/api/maker/karen-have?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Thanos Image Maker",
+        "path": "/api/maker/thanos?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Approved Image Maker",
+        "path": "/api/maker/approved?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Burn Image Maker",
+        "path": "/api/maker/burn?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Challenger Image Maker",
+        "path": "/api/maker/challenger?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Crush Image Maker",
+        "path": "/api/maker/crush?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Dictator Image Maker",
+        "path": "/api/maker/dictator?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "VS Image Maker",
+        "path": "/api/maker/vs?url=%baseURL%/images/avatar.png&url2=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Donald Trump Twitter Image Maker",
+        "path": "/api/maker/trump-tweets?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Harta Tahta Image Maker",
+        "path": "/api/maker/tahta?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Custom Harta Tahta Image Maker",
+        "path": "/api/maker/costum-tahta?text1=xcoders&text2=and&text3=friends&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Twibbon Badut Image Maker",
+        "path": "/api/maker/badut?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "V2 Twibbon Badut Image Maker",
+        "path": "/api/maker/badut2?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "V3 Twibbon Badut Image Maker",
+        "path": "/api/maker/badut3?url=%baseURL%/images/avatar.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Twitter Canvas Image Maker",
+        "path": "/api/maker/twitter?url=%baseURL%/images/avatar.png&username=Farhannnn&nickname=xcoders&text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Quotes Canvas Image Maker",
+        "path": "/api/maker/quotes?url=%baseURL%/images/avatar.png&wm=FarhannnnX&text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Quote Chat Image Maker",
+        "path": "/api/maker/quote?url=%baseURL%/images/avatar.png&username=Farhannnn&text=xcoders+api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Chat Bubble WhatsApp Maker",
+        "path": "/api/maker/chat-bubble?nickname=Fxc7&number=6285956396417&text=xcoders+api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Gura Image Maker",
+        "path": "/api/maker/gura?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Ren Image Maker",
+        "path": "/api/maker/ren?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Naoka Image Maker",
+        "path": "/api/maker/naoka?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Alto Image Maker",
+        "path": "/api/maker/alto?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Gungale Image Maker",
+        "path": "/api/maker/gungale?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Kaneki Image Maker",
+        "path": "/api/maker/kaneki?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Photooxy": {
+    "component": [
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Memory Photo Frame",
+        "path": "/api/photooxy/memory?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Photo Toilet",
+        "path": "/api/photooxy/toilet?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Place Photo Notes",
+        "path": "/api/photooxy/place?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Burn On Hands",
+        "path": "/api/photooxy/burning?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Broken Card",
+        "path": "/api/photooxy/shattered?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Broken Mirrors",
+        "path": "/api/photooxy/mirrors?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "3D anaglyph",
+        "path": "/api/photooxy/anaglyph?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Iphone Wallpaper",
+        "path": "/api/photooxy/iphone?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Flame Paper",
+        "path": "/api/photooxy/flame?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Loving Memory",
+        "path": "/api/photooxy/frame?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Frame In Nature",
+        "path": "/api/photooxy/nature?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Ripped Torn Paper",
+        "path": "/api/photooxy/ripped?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Paper Tearing",
+        "path": "/api/photooxy/tearing?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Double Exposure",
+        "path": "/api/photooxy/exposure?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Coffee Cup",
+        "path": "/api/photooxy/coffee?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Quote Wood",
+        "path": "/api/photooxy/quote-wood?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Flaming text",
+        "path": "/api/photooxy/flaming?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Ocean Sea",
+        "path": "/api/photooxy/ocean-sea?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "PUBG Text",
+        "path": "/api/photooxy/pubg?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Shadow Text",
+        "path": "/api/photooxy/shadow?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Rainbow Text",
+        "path": "/api/photooxy/rainbow?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Gravity Text Effect",
+        "path": "/api/photooxy/gravity?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Burn Paper Effect",
+        "path": "/api/photooxy/burn-paper?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Smoke Effect",
+        "path": "/api/photooxy/smoke?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Romantic Text Effect",
+        "path": "/api/photooxy/romantic?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Naruto Text Background",
+        "path": "/api/photooxy/naruto?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Love Message Text Effect",
+        "path": "/api/photooxy/love-message?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Message under grass",
+        "path": "/api/photooxy/grass?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Glicth Text Effect",
+        "path": "/api/photooxy/glitch?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Double Heart Text Effect",
+        "path": "/api/photooxy/double-heart?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Coffe Cup",
+        "path": "/api/photooxy/coffe-cup?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Love",
+        "path": "/api/photooxy/love-text?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Butterfly Text Effect",
+        "path": "/api/photooxy/butterfly?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Slide Text Effect",
+        "path": "/api/photooxy/slide-text?text=xcoders+api&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Ephoto 360": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Quotes Status",
+        "path": "/api/ephoto/quote-status?text=xcoders&text2=Your+Quotes&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Consert Neon Blue",
+        "path": "/api/ephoto/neon-blue?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Wood",
+        "path": "/api/ephoto/wood?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Sweet Text Love Video",
+        "path": "/api/ephoto/sweet-love?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Heart Flash Light",
+        "path": "/api/ephoto/heart-flash?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Television Vintage",
+        "path": "/api/ephoto/television?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Glasses Text",
+        "path": "/api/ephoto/glasses?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Black Pink",
+        "path": "/api/ephoto/black-pink?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Neon Black Pink",
+        "path": "/api/ephoto/neon-black-pink?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Blue Neon",
+        "path": "/api/ephoto/blue-neon?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Cover PUBG",
+        "path": "/api/ephoto/cover-pubg?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Juventus T-shirt",
+        "path": "/api/ephoto/juventus?text=xcoders&number=05&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Green Brush",
+        "path": "/api/ephoto/green-brush?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Eraser Text",
+        "path": "/api/ephoto/eraser?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Dragon Fire",
+        "path": "/api/ephoto/dragon-fire?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Incandescent Blubs",
+        "path": "/api/ephoto/incandescent?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Typography Dark Green",
+        "path": "/api/ephoto/typography?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Letters Leavers",
+        "path": "/api/ephoto/letters?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "On Cloth",
+        "path": "/api/ephoto/cloth?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "3D Gravity",
+        "path": "/api/ephoto/graffiti?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Metal Stars",
+        "path": "/api/ephoto/metals?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Typography Two",
+        "path": "/api/ephoto/typography-two?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Night Stars",
+        "path": "/api/ephoto/night-stars?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Cloud Text",
+        "path": "/api/ephoto/cloud?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Caper Cut",
+        "path": "/api/ephoto/caper?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Create Horror",
+        "path": "/api/ephoto/horror?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Sun Light Text",
+        "path": "/api/ephoto/sun-light?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Birthday Cake",
+        "path": "/api/ephoto/cake?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Cute Pig",
+        "path": "/api/ephoto/pig?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Halloween",
+        "path": "/api/ephoto/hallowen?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Leaf Typography Text",
+        "path": "/api/ephoto/leafgraphy?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Water Text Effect",
+        "path": "/api/ephoto/water?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Write Text Status",
+        "path": "/api/ephoto/write-status?text=xcoders&text2=your+quotes&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Paul Scholes",
+        "path": "/api/ephoto/scholes?text=xcoders&number=5&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Heated Steels",
+        "path": "/api/ephoto/heated?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Buoys On Life",
+        "path": "/api/ephoto/buoys?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Crank Animated",
+        "path": "/api/ephoto/crank?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Puppy Text Animated",
+        "path": "/api/ephoto/puppy?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "PUBG Avatar",
+        "path": "/api/ephoto/pubg-avatar?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Foggy Text",
+        "path": "/api/ephoto/foggy?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Diary And Smartphone",
+        "path": "/api/ephoto/diary?url=%baseURL%/images/profile.png&text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Artistic Water Frames",
+        "path": "/api/ephoto/artistic?url=%baseURL%/images/profile.png&text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Collage Smartphone",
+        "path": "/api/ephoto/collage?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Cyberpunk City",
+        "path": "/api/ephoto/cyber-punk?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Billboard Outdoor",
+        "path": "/api/ephoto/billboard?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Fire Animeted",
+        "path": "/api/ephoto/fire?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Rain Glass",
+        "path": "/api/ephoto/rain?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Ring Fire",
+        "path": "/api/ephoto/ring?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Cat Super Cool",
+        "path": "/api/ephoto/cat?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Sad Mood",
+        "path": "/api/ephoto/sad?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Cinemagraph Television",
+        "path": "/api/ephoto/cinemagraph?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Diary Frames",
+        "path": "/api/ephoto/diary-frame?url=%baseURL%/images/profile.png&text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Notebook Music",
+        "path": "/api/ephoto/notebook?url=%baseURL%/images/profile.png&text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Adventure Brush",
+        "path": "/api/ephoto/adventure?url=%baseURL%/images/profile.png&text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "VHS Glitch",
+        "path": "/api/ephoto/vhs?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Sketch Memories",
+        "path": "/api/ephoto/memories?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Glazing Frames",
+        "path": "/api/ephoto/glazing?url=%baseURL%/images/profile.png&text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Fall Flower",
+        "path": "/api/ephoto/flower?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Fire Hearts",
+        "path": "/api/ephoto/heart?url=%baseURL%/images/profile.png&text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Smoke Photos",
+        "path": "/api/ephoto/smoke?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Handler Fire",
+        "path": "/api/ephoto/handle-fire?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Spectrum Audio",
+        "path": "/api/ephoto/spectrum?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Painting Stone",
+        "path": "/api/ephoto/painting?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Tiger Logo Video",
+        "path": "/api/ephoto/tiger?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Wanted Poster",
+        "path": "/api/ephoto/wallpaper-poster?url=%baseURL%/images/profile.png&text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "American Flag",
+        "path": "/api/ephoto/american?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Sketch Pencil Logo",
+        "path": "/api/ephoto/pencil?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Tatto Arrows",
+        "path": "/api/ephoto/arrow?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Tatto Arrows Two",
+        "path": "/api/ephoto/arrow-two?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "AOV Hero",
+        "path": "/api/ephoto/aov?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Anonymous Hacker",
+        "path": "/api/ephoto/anonymous?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Mobile Legends Hero",
+        "path": "/api/ephoto/ml?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Warface Cover",
+        "path": "/api/ephoto/warface?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Among US",
+        "path": "/api/ephoto/amongus?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Among US Two",
+        "path": "/api/ephoto/amongus-two?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Hologram Effect",
+        "path": "/api/ephoto/hologram?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Flaming Effect",
+        "path": "/api/ephoto/flaming?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Angels Effect",
+        "path": "/api/ephoto/angels?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "World Cup",
+        "path": "/api/ephoto/world-cup?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Glitch Effect",
+        "path": "/api/ephoto/glitch?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Portal Effect",
+        "path": "/api/ephoto/portal?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Colorful Text Effect",
+        "path": "/api/ephoto/colorful?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Drop Water Effect",
+        "path": "/api/ephoto/drop?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Double Heart Effect",
+        "path": "/api/ephoto/double-heart?url=%baseURL%/images/profile.png&url2=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Cool Avatars Effect",
+        "path": "/api/ephoto/cool-avatar?url=%baseURL%/images/profile.png&text=xcoders+api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Glasses Status Effect",
+        "path": "/api/ephoto/glasses-status?url=%baseURL%/images/profile.png&text=xcoders+api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Double Photo Romantic Love",
+        "path": "/api/ephoto/photo-romantic?url=%baseURL%/images/profile.png&url2=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Textpro Me": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Gradient",
+        "path": "/api/textpro/gradient?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Layered",
+        "path": "/api/textpro/layered?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Paper",
+        "path": "/api/textpro/paper?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Pornhub",
+        "path": "/api/textpro/porn-hub?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Harry Potter",
+        "path": "/api/textpro/harrypotter?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Embossed",
+        "path": "/api/textpro/embossed?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Broken",
+        "path": "/api/textpro/broken?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Black Pink",
+        "path": "/api/textpro/black-pink?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Carbon",
+        "path": "/api/textpro/carbon?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Glue",
+        "path": "/api/textpro/glue?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Neon",
+        "path": "/api/textpro/neon?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Blood",
+        "path": "/api/textpro/blood?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Fire Work",
+        "path": "/api/textpro/fire-work?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Drop Water",
+        "path": "/api/textpro/drop-water?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Image Glitch",
+        "path": "/api/textpro/image-glitch?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text A Glitch",
+        "path": "/api/textpro/aglitch?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Glossy",
+        "path": "/api/textpro/glossy?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Bear",
+        "path": "/api/textpro/bear?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Devil",
+        "path": "/api/textpro/devil?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Christmas",
+        "path": "/api/textpro/christmas?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Magma",
+        "path": "/api/textpro/magma?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Stone",
+        "path": "/api/textpro/stone?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Light",
+        "path": "/api/textpro/light?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Berry",
+        "path": "/api/textpro/berry?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Transformers",
+        "path": "/api/textpro/transformer?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Fiction",
+        "path": "/api/textpro/fiction?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Video Game",
+        "path": "/api/textpro/video-game?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Game Horror",
+        "path": "/api/textpro/green-horror?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Captain America",
+        "path": "/api/textpro/captain-america?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Metallic",
+        "path": "/api/textpro/metallic?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Discovery",
+        "path": "/api/textpro/discovery?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Circuit",
+        "path": "/api/textpro/circuit?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Sketch",
+        "path": "/api/textpro/sketch?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Cinematic Horror",
+        "path": "/api/textpro/choror?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Spooky",
+        "path": "/api/textpro/spooky?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Skeleton",
+        "path": "/api/textpro/skeleton?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Golden Ancient",
+        "path": "/api/textpro/ancient?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Glowing",
+        "path": "/api/textpro/glowing?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Brick Wall",
+        "path": "/api/textpro/brick?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Thor Logo",
+        "path": "/api/textpro/thor?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Galaxy",
+        "path": "/api/textpro/galaxy?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Batman",
+        "path": "/api/textpro/batman?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Arcane",
+        "path": "/api/textpro/arcane?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text 3D Giraffe",
+        "path": "/api/textpro/giraffe?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Sliced",
+        "path": "/api/textpro/sliced?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Summer",
+        "path": "/api/textpro/summer?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Text Logo Business",
+        "path": "/api/textpro/business?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Photofunia": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Snow Paper Text",
+        "path": "/api/photofunia/snow?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Ballon Wind Text",
+        "path": "/api/photofunia/balloon?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Banner Plane Text",
+        "path": "/api/photofunia/banner-plane?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "christmas Writing Text",
+        "path": "/api/photofunia/christmas-writing?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Neon Writing Text",
+        "path": "/api/photofunia/neon-writing?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Beach Text Sign",
+        "path": "/api/photofunia/beach-sign?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Albert Einstein",
+        "path": "/api/photofunia/einstein?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Bracelet Text",
+        "path": "/api/photofunia/bracelet?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Water Writing Text",
+        "path": "/api/photofunia/water-writing?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Haunted Hotel Text",
+        "path": "/api/photofunia/haunted-hotel?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Nightmare Writing Text",
+        "path": "/api/photofunia/nightmare-writing?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Neon Sign Text",
+        "path": "/api/photofunia/neon-sign?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Street Sign Text",
+        "path": "/api/photofunia/street-sign?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Love Lock Text",
+        "path": "/api/photofunia/love-lock?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Heart Tatto Text",
+        "path": "/api/photofunia/heart-tattoo?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Light Graffiti Text",
+        "path": "/api/photofunia/light-graffiti?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Pendant Text",
+        "path": "/api/photofunia/pendant?text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Arrows Sign Two Text",
+        "path": "/api/photofunia/arrow-signs?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "LED Road Sign Two Text",
+        "path": "/api/photofunia/led-road-sign?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Snow Writing Two Text",
+        "path": "/api/photofunia/snow-writing?text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Travellers Sketch Image",
+        "path": "/api/photofunia/travellers-sketch?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Sketch Practicing Image",
+        "path": "/api/photofunia/sketch-practicing?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "In The Woods Image",
+        "path": "/api/photofunia/in-the-woods?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "City Billboard Image",
+        "path": "/api/photofunia/city-billboard?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Travellers Diary Image",
+        "path": "/api/photofunia/travellers-diary?url=%baseURL%/images/profile.png&text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Badges Text Image",
+        "path": "/api/photofunia/badges?url=%baseURL%/images/profile.png&text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Burning Fire Image GIF",
+        "path": "/api/photofunia/burning-fire?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Lightning Image GIF",
+        "path": "/api/photofunia/lightning?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Burning Photo GIF",
+        "path": "/api/photofunia/burning-photo?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Snow Globe Text Image GIF",
+        "path": "/api/photofunia/snow-globe?url=%baseURL%/images/profile.png&text=xcoders&text2=api&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Giant Artwork Image",
+        "path": "/api/photofunia/giant-art-work?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Morning News Paper Image",
+        "path": "/api/photofunia/morning-newspaper?url=%baseURL%/images/profile.png&text=xcoders&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Easter Greetings Image",
+        "path": "/api/photofunia/easter-greetings?url=%baseURL%/images/profile.png&text=xcoders&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Fun Games": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Family 100",
+        "path": "/api/fun/family100?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Cak Lontong",
+        "path": "/api/fun/cak-lontong?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Tebak Gambar",
+        "path": "/api/fun/tebak-gambar?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Asah Otak",
+        "path": "/api/fun/asah-otak?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Siapakah Aku",
+        "path": "/api/fun/siapakah?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Siapakah Aku V2",
+        "path": "/api/fun/siapakah-two?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Susun Kata",
+        "path": "/api/fun/susun-kata?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Teka Teki",
+        "path": "/api/fun/teka-teki?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Simi Simi",
+        "path": "/api/fun/simi?text=hai&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Tebak Bendera",
+        "path": "/api/fun/tebak-bendera?apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Anime Manga": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Kusonime Search",
+        "path": "/api/anime/kusonime?query=naruto&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Manga Search",
+        "path": "/api/anime/manga?query=naruto&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random Loli",
+        "path": "/api/anime/loli?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random Waifu",
+        "path": "/api/anime/waifu?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random Neko",
+        "path": "/api/anime/neko?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random Husbu",
+        "path": "/api/anime/husbu?apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Nhentai": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Search data Nhentai",
+        "path": "/api/nhentai/search?query=loli&page=1&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Nhentai Details from ID",
+        "path": "/api/nhentai/code?id=407407&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random data Nhentai",
+        "path": "/api/nhentai/random?apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Otakudesu": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Search data Otakudesu",
+        "path": "/api/otakudesu/search?query=loli&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Otakudesu Downloads Link",
+        "path": "/api/otakudesu/download?url=https://otakudesu.lol/episode/wrk-episode-13-sub-indo&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Otakudesu Details Link",
+        "path": "/api/otakudesu/details?url=https://otakudesu.lol/anime/working-sub-indo&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Nekopoi": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Search data Nekopoi",
+        "path": "/api/nekopoi/search?query=loli&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Get data Nekopoi",
+        "path": "/api/nekopoi/detail?url=https://nekopoi.care/3d-hentai-inglis-eucus-begs-to-be-fucked-reborn-to-master-the-blade&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random Nekopoi",
+        "path": "/api/nekopoi/random?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Latest POST Nekopoi",
+        "path": "/api/nekopoi/latest?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Get List Genre Nekopoi",
+        "path": "/api/nekopoi/list-genre?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Get Data Genre Nekopoi",
+        "path": "/api/nekopoi/data-genre?query=https://nekopoi.care/genres/action&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Random": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random Meme",
+        "path": "/api/random/meme?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Cerpen Cinta",
+        "path": "/api/random/cerpen/cinta?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Cerpen Sahabat",
+        "path": "/api/random/cerpen/sahabat?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Cerpen Perjuangan",
+        "path": "/api/random/cerpen/perjuangan?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Cerpen Horor",
+        "path": "/api/random/cerpen/horor?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Cerpen Lucu",
+        "path": "/api/random/cerpen/lucu?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Cerpen Jawa",
+        "path": "/api/random/cerpen/jawa?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random Cerita Sex",
+        "path": "/api/random/cersex?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random Bokep",
+        "path": "/api/random/bokep?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random PP Couple",
+        "path": "/api/random/profile-couple?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random Dark Jokes",
+        "path": "/api/random/dark-jokes?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random Gore",
+        "path": "/api/random/gore?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random Gore V2",
+        "path": "/api/random/gore-two?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random Url Horror",
+        "path": "/api/random/meta-story-horor?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Random Story Horror",
+        "path": "/api/random/story-horror?apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Searching": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Youtube Search",
+        "path": "/api/search/youtube?query=monolog+pamungkas&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "APKDL Search",
+        "path": "/api/search/apkdl?query=whatsapp&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Sfile Search",
+        "path": "/api/search/sfile?query=whatsapp&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "APK Mirror Search",
+        "path": "/api/search/apk-mirror?query=whatsapp&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Recipes Search",
+        "path": "/api/search/recipes?query=rendang&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Tiktok Search With Hashtag",
+        "path": "/api/search/tiktok-hashtag?query=fakebody&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Tiktok Search",
+        "path": "/api/search/tiktok?query=pargoy&count=20&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Get all Link YT Channel",
+        "path": "/api/search/get-all-video-youtube-channel?url=https://youtube.com/c/JeriTaufikLizam&next_page=token next_page&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Pornhub Search",
+        "path": "/api/search/porn-hub?query=moms&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "XNXX Search",
+        "path": "/api/search/xnxx?query=moms&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Xvideos Search",
+        "path": "/api/search/xvideos?query=moms&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Cerita Sex Search",
+        "path": "/api/search/cersex?query=tante&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Sticker Search",
+        "path": "/api/search/sticker?query=pentol&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Sticker Telegram Search",
+        "path": "/api/search/telegram-sticker?query=boba&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Group WA Search",
+        "path": "/api/search/group-whatsapp?query=bot+whatsapp&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Webtoons Search",
+        "path": "/api/search/webtoons-search?query=cinta&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Webtoons Details",
+        "path": "/api/search/webtoons-details?url=https://m.webtoons.com/en/challenge/takdir-cinta-elisya/list?title_no=446738&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Webtoons Episode",
+        "path": "/api/search/webtoons-episode?url=https://m.webtoons.com/en/challenge/takdir-cinta-elisya/budak-baru/viewer?title_no=446738&episode_no=41&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Wattpad Search",
+        "path": "/api/search/search-wattpad?query=sad+story&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Reading Wattpad",
+        "path": "/api/search/read-wattpad?url=https://www.wattpad.com/692726510-sad-story-eps-1&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Story Wattpad",
+        "path": "/api/search/story-wattpad?url=https://www.wattpad.com/story/175234671-sad-story&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Brainly Search",
+        "path": "/api/search/brainly?query=sejarah+indonesia&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Google Play Search",
+        "path": "/api/search/google-play?query=whatsapp&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Image Search",
+        "path": "/api/search/image?query=onic+kayes&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Image Search V2",
+        "path": "/api/search/image-two?query=onic+kayes&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Reverse Image",
+        "path": "/api/search/reverse-image?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Pinterest Search",
+        "path": "/api/search/pinterest?query=onic+kayes&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Wikipedia Search",
+        "path": "/api/search/wikipedia?query=kopi&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Lirik Lagu Search",
+        "path": "/api/search/lirik-lagu?query=monolog+pamungkas&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Chord Lagu Search",
+        "path": "/api/search/chord-lagu?query=monolog+pamungkas&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Movies": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Film Apik Search",
+        "path": "/api/filmapik/search?query=titanic&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Film Apik Category",
+        "path": "/api/filmapik/category?query=action&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Film Apik Years",
+        "path": "/api/filmapik/years?query=2022&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Film Apik Country",
+        "path": "/api/filmapik/country?query=indonesia&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Film Apik Trending",
+        "path": "/api/filmapik/trending?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Film Apik Rating",
+        "path": "/api/filmapik/rating?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "LK21 Search",
+        "path": "/api/lk21/search?query=titanic&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "LK21 FTV",
+        "path": "/api/lk21/ftv?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "LK21 Series",
+        "path": "/api/lk21/series?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "LK21 New",
+        "path": "/api/lk21/new?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "LK21 Years",
+        "path": "/api/lk21/year?query=2022&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "LK21 Country",
+        "path": "/api/lk21/country?query=indonesia&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Information": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Distance/Jarak antar kota",
+        "path": "/api/info/distance?from=banyuwangi&to=surabaya&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Get Data Cuaca Daerah",
+        "path": "/api/info/cuaca?query=banyuwangi&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Google Top News",
+        "path": "/api/info/top-news?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Trending Google",
+        "path": "/api/info/trending-google?country=indonesia&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Trending Twitter",
+        "path": "/api/info/trending-twitter?country=indonesia&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Trending Youtube",
+        "path": "/api/info/trending-youtube?country=indonesia&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Trending Youtube Gaming",
+        "path": "/api/info/trending-youtube-gaming?country=indonesia&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Info Gempa",
+        "path": "/api/info/gempa?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "KBBI",
+        "path": "/api/info/kbbi?query=pohon&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Primbon Jawa": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Check Date Primbon",
+        "path": "/api/primbon/date?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Primbon Jodoh",
+        "path": "/api/primbon/jodoh?text=farhan&text2=iriene&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Primbon Arti Nama",
+        "path": "/api/primbon/arti-nama?query=farhan&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Primbon Arti Mimpi",
+        "path": "/api/primbon/arti-mimpi?query=belanja&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Primbon Zodiak Mingguan",
+        "path": "/api/primbon/zodiak-mingguan?query=taurus&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Primbon Zodiak Harian",
+        "path": "/api/primbon/zodiak-harian?query=taurus&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Primbon Tanggal Pernikahan",
+        "path": "/api/primbon/tanggal-jadi?query=14-9-2025&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Primbon Ramal Jodoh",
+        "path": "/api/primbon/ramal-jodoh?nama=farhan&tanggal=01-5-2003&nama2=iriene&tanggal2=15-9-2005&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Primbon Rezeki Weton",
+        "path": "/api/primbon/rezeki-weton?tanggal=14-9-2022&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Primbon Kecocokan Nama",
+        "path": "/api/primbon/cocok-nama?nama=farhan&tanggal=01-5-2003&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Converter": {
+    "component": [
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Webp To MP4",
+        "path": "/api/convert/webp-mp4?url=%baseURL%/storage/video.webp&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Convert Image To Sticker",
+        "path": "/api/convert/sticker?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Convert Sticker Removebg",
+        "path": "/api/convert/webp-removebg?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Convert Sticker Circle",
+        "path": "/api/convert/webp-removebg?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Convert To Webp",
+        "path": "/api/convert/image-to-webp?url=%baseURL%/images/profile.png&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Reverse Video",
+        "path": "/api/convert/reverse-video?url=%baseURL%/storage/VID-20230411-WA0044.mp4&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET",
+          "POST"
+        ],
+        "name": "Reverse GIF",
+        "path": "/api/convert/reverse-gif?url=%baseURL%/storage/earth.gif&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  },
+  "Tools": {
+    "component": [
+      {
+        "method": [
+          "POST"
+        ],
+        "name": "Uploader Media",
+        "path": "/api/tools/upload",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Check Coin Market",
+        "path": "/api/tools/coin-market?apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Check Headers Website",
+        "path": "/api/tools/headers?url=%baseURL%&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Node Fetch",
+        "path": "/api/tools/fetch?url=%baseURL%&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Get Real URL From Redirect",
+        "path": "/api/tools/get-url-redirect?url=https://tinyurl.com/2lxodt3k&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Short tinyurl",
+        "path": "/api/tools/tiny-url?url=%baseURL%&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Short en",
+        "path": "/api/tools/short-url?url=%baseURL%&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Short Cuttly",
+        "path": "/api/tools/cuttly?url=%baseURL%&apikey=APIKEY",
+        "status": "online"
+      },
+      {
+        "method": [
+          "GET"
+        ],
+        "name": "Short Bitly",
+        "path": "/api/tools/bitly?url=%baseURL%&apikey=APIKEY",
+        "status": "online"
+      }
+    ]
+  }
+}
