@@ -20,10 +20,10 @@ ___
             You Visitors To:
 ```
 <p align="center">
-<img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
+<img height="150" src="https://profile-counter.deno.dev/Fxc7/count.svg" />
 </p><br>
 
-![Fxc7](https://cardivo.vercel.app/api?name=Farhannnnn&description=Hi,%20i%27m%20Farhan%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeySyqIcYYtqTMxOcAiE43TAGkbaZSBiahRkJH_TEzV_Si-4VKOSnDUhQ&s=10&backgroundColor=%23ecf0f1&instagram=farhanxcode7&github=Fxc7&site=https://xcoders-teams.my.id&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
+![Fxc7](https://cardivo.vercel.app/api?name=Farhannnnn&description=Hi,%20i%27m%20Farhan%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeySyqIcYYtqTMxOcAiE43TAGkbaZSBiahRkJH_TEzV_Si-4VKOSnDUhQ&s=10&backgroundColor=%23ecf0f1&instagram=farhanxcode&github=Fxc7&site=https://ehiyapedia.com&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
 ___
 
 ```
@@ -36,13 +36,13 @@ ___
 ```
 ___
 
-### [`👇  INTRO MY SELF`](https://xcoders-teams.my.id)
+### [`👇  INTRO MY SELF`](https://ehiyapedia.com)
 ```
 Intro = {
 "Name": "Ahmad Farhan",
 "Status": "Graduates SMK Muhammadiyah 6 Rogojampi, Banyuwangi",
 "Address": "Banyuwangi, Jawa Timur, Indonesia",
-"Age": "20 Years Old",
+"Age": "21 Years Old",
 "Birthday": "May - 01, 2003"
 }
 ```
