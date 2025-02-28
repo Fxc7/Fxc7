@@ -16,14 +16,11 @@ ___
 
 
 ___
-```
-            You Visitors To:
-```
 <p align="center">
 <img height="150" src="https://profile-counter.deno.dev/Fxc7/count.svg" />
 </p><br>
 
-![Fxc7](https://cardivo.vercel.app/api?name=Farhannnnn&description=Hi,%20i%27m%20Farhan%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeySyqIcYYtqTMxOcAiE43TAGkbaZSBiahRkJH_TEzV_Si-4VKOSnDUhQ&s=10&backgroundColor=%23ecf0f1&instagram=farhanxcode&github=Fxc7&site=https://ehiyapedia.com&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
+![Fxc7](https://cardivo.vercel.app/api?name=Farhannnnn&description=Hi,%20i%27m%20Farhan%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/74123134?v=4&size=500&s=10&backgroundColor=%23ecf0f1&instagram=farhanxcode&github=Fxc7&site=https://github.com/Fxc7&iconColor=%23595959&fontColor=%23595959&pattern=ticTacToe&colorPattern=%23eaeaea&opacity=1)
 ___
 
 ```
@@ -71,9 +68,9 @@ ___
 ### [` 📫 Contact & Support Me`]()
 
 <p align="center">
-<a href="https://www.instagram.com/farhanxcode7" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/farhanxcode" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="farhanxcode7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://chat.whatsapp.com/J7GcP97MeKYFJOX5TNFQxV" target="_blank"><img src="https://img.shields.io/badge/Groups Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Groups WhatsApp"></a>
+<a href="https://chat.whatsapp.com/JlQaoQ1T1AxLtAZWneLEPQ" target="_blank"><img src="https://img.shields.io/badge/Groups Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Groups WhatsApp"></a>
 </p>
 
 ___
