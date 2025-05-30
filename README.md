@@ -33,7 +33,7 @@ ___
 ```
 ___
 
-### [`👇  INTRO MY SELF`](https://ehiyapedia.com)
+### [`👇  INTRO MY SELF`](https://www.instagram.com/farhanxcode)
 ```
 Intro = {
 "Name": "Ahmad Farhan",
@@ -45,6 +45,11 @@ Intro = {
 ```
 ___
 
+___
+![contributions](https://github.com/user-attachments/assets/2fab4930-5097-45ac-98e8-6616668d3716)
+
+
+___
 
 <p align="center">
   <a href="https://github.com/Fxc7"><img src="https://github-readme-stats.vercel.app/api?username=Fxc7&theme=tokyonight&show_icons=true" /></a>
